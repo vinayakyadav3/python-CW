@@ -71,4 +71,4 @@ phones = {
 
 print(phones["Area2"]["c"])
 
-
+print(phones["Area1"]["y"])
