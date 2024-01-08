@@ -34,7 +34,7 @@ phones = {
 # phones.update(more_phones)
 # print(phones)
 #
-# # remove elemnt in dict
+# # remove element in dict
 # phones.pop("John")
 # print(phones)
 #
@@ -72,3 +72,4 @@ phones = {
 print(phones["Area2"]["c"])
 
 print(phones["Area1"]["y"])
+

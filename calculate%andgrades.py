@@ -32,7 +32,7 @@ print("The total marks are: ", Total)
 Average = (physics + chemistry + biology + english + history + computer_science + botany)/ 7
 print("The Average marks are: ", Average)
 
-percentage = Total / 700  * 100
+percentage = Total / 700 * 100
 print("The percentage is: ", percentage)
 
 if percentage >= 81:
@@ -43,4 +43,3 @@ elif percentage >= 41:
     print("The Grade obtained is Average:")
 else:
     print("The Grade obtained is failed:")
-
