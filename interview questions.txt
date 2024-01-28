@@ -1,0 +1,92 @@
+
+infogen labs 16/1/24
+lambda to db connectin pvt subnet
+alias (aws resorse direct attach)vs cname
+ebs volm increase
+wht is terrafom state
+terrfm state
+term apply
+trfm modules, own modules
+trfm varible
+dkr k8 layer
+dkr imge vs container
+latest  image
+port in k8
+types of worker nodes in k8
+daemon set in k8
+cicd pipeline
+
+
+DYNAMIC APP DEPLOY ON S3
+DB S3 REGION SPECIFIC
+HOW TO CREATE BACKUP OD DB
+API GATEWAY use
+COGNITO
+COUDFRONT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+flipkart 18/1/24
+what is resp in aws , monitoring
+bmc 
+server nt reachable
+rsync scp
+sysm /nml user
+9th std permission
+rws permsn 3 ty suid sgid stickybit
+lvm
+partition
+gpt partition table
+file system ad block storage
+role of filesytem, purpose
+ip protocal tcp
+tcp vs udp
+diff kill vs kill -9
+scrit bash 
+
+
+suraj
+What is Microsoft entraID
+How many storage options in azure cloud
+What is container size of blob storage
+Tell me about resource group
+Which environment u use for your server
+How you perform cutover
+How many migration u done
+What is site to site recovery
+What is ulimit command in linux
+Tell me about file descriptor
+What to expose port without docker file
+What is a node pool in AKS
+What is the purpose of Helm in AKS?
+Walk me through of Master slave architecture of kubernet
+Have you created cicd pipeline if yes then tell me how you choose cicd server and deployment
+Do you know about Kubernetes Pod Lifecycle.
+multple user input in bash
+shebang file how to communicate with kernel
+Ingress in Kubernetes, and  it is different from a Service?
+How to communicate with two vnet
+Linux che pathau ka
+How to perform lvm on two row disk
+Can we decript the /shodow directory encrypted password
+Ulimit command
+File descriptor
+How many mount options are available in Linux
+What tool u use for patching
+How to change umask value to 744 for a directory

@@ -83,3 +83,20 @@ dictionary items:
 - any datatype
 
 
+Functions:
+they are block of reusable code, which perform specific tasks
+
+types of function
+1. built-in
+2. user defined
+
+tyoes of arfument
+1. default arguments
+2. keyword named arguments
+3. positional arguments
+4. arbitrary arguments(variable- length arguments *args and **kwargs) args willbe take as tuples
+
+
+
+
+
